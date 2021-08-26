@@ -38,6 +38,7 @@ nav a {
 
 .sectiontitle {
     background-color:lightpink;
+    border-radius: 25px;
 }
 
 #About h2 {
