@@ -65,7 +65,7 @@ p {
 
 .divider {
     background-color: lightpink;
-    height: 5px;
+    height: 1px;
     width: 100%;
     border-style: dotted;
     border-color: rgb(40, 133, 40);
