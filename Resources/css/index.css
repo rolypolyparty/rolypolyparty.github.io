@@ -1,0 +1,77 @@
+body {
+    background-image: url(../images/flower.jpg);
+    background-position: 100%;
+    background-repeat:unset;
+}
+
+nav {
+    padding: 5px 5px;
+    background-color: lightpink;
+    border-radius: 50px;
+    width: 100%;
+}
+nav li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    padding: 0 40px;
+    font-family: Georgia;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(91, 17, 122);
+}
+
+#MargasWorld h1 {
+    font-family: helvetica;
+    font-weight: 1000px;
+    color: black;
+    text-align: center;
+}
+
+#MargasWorld h4 {
+    font-family: Georgia;
+    font-weight: 50px;
+    text-align: center;
+}
+
+.sectiontitle {
+    background-color:lightpink;
+}
+
+#About h2 {
+    color: rgb(91, 17, 122);
+    font-family: Georgia;
+    opacity: 100%;
+}
+
+p {
+    font-family: Helvetica;
+    
+}
+
+#MyPic {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.sectiontitle ul {
+    font-family: helvetica;
+}
+
+.divider {
+    background-color: lightpink;
+    height: 5px;
+    width: 100%;
+    border-style: dotted;
+    border-color: rgb(40, 133, 40);
+}
+
+footer {
+    background-color: rgb(40, 133, 40);
+    padding: 10px 30px;
+    color: white;
+    font-size: small;
+}
