@@ -1,6 +1,6 @@
 body {
     background-image: url(../images/flower.jpg);
-    background-position: 100%;
+    background-position: fixed;
     background-repeat:unset;
 }
 
