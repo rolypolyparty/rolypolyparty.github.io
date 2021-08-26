@@ -69,6 +69,7 @@ p {
     width: 100%;
     border-style: dotted;
     border-color: rgb(40, 133, 40);
+    opacity: 0%;
 }
 
 footer {
